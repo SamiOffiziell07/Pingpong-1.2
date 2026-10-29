@@ -1,0 +1,26 @@
+{
+  "name": "Pocket Pong",
+  "short_name": "Pocket Pong",
+  "description": "Pocket Pong by SAMIX – GAMES · APPS · INNOVATION",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070a10",
+  "theme_color": "#070a10",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "id": "./",
+  "lang": "en"
+}
